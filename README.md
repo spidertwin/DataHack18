@@ -1,5 +1,8 @@
 # DataHack18
-Our project for the data science hackathon held in Jerusalem
+My sister, Sugandh Gupta, and my project for the data science hackathon held in Jerusalem
+
+-------------
+Project files:
 
 avocado.csv = data about features of avocados (price, type, quantity, year, region)
 
